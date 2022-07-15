@@ -1,0 +1,29 @@
+body
+{
+  background-color: aquamarine;
+}
+
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(111, 111, 111);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 800px;
+    height: 300px;
+    color: rgb(70, 172, 255);
+    font-size: 40px;
+    font-weight: 10px;
+}
